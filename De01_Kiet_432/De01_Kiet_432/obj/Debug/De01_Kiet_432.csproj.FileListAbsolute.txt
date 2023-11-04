@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\Code\C#\HaUI\De01_Kiet_432\De01_Kiet_432\bin\Debug\De01_Kiet_432.exe.config
+C:\Users\admin\Desktop\Code\C#\HaUI\De01_Kiet_432\De01_Kiet_432\bin\Debug\De01_Kiet_432.exe
+C:\Users\admin\Desktop\Code\C#\HaUI\De01_Kiet_432\De01_Kiet_432\bin\Debug\De01_Kiet_432.pdb
+C:\Users\admin\Desktop\Code\C#\HaUI\De01_Kiet_432\De01_Kiet_432\obj\Debug\De01_Kiet_432.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Code\C#\HaUI\De01_Kiet_432\De01_Kiet_432\obj\Debug\De01_Kiet_432.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Code\C#\HaUI\De01_Kiet_432\De01_Kiet_432\obj\Debug\De01_Kiet_432.exe
+C:\Users\admin\Desktop\Code\C#\HaUI\De01_Kiet_432\De01_Kiet_432\obj\Debug\De01_Kiet_432.pdb
